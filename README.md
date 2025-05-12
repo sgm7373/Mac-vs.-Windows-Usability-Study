@@ -5,7 +5,7 @@ This repository contains a comparative usability study of Mac and Windows operat
 ## 📄 Report
 
 You can find the full study report under the `report/` folder:  
-➡️ [`Usability_Study_Report.pdf`](report/Usability_Study_Report.pdf)
+👉 [Usability Study Report.pdf](./Usability%20Study%20Report.pdf)
 
 ## 📌 Summary
 
